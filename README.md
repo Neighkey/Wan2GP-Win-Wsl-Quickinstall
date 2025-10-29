@@ -1,5 +1,5 @@
 
-# WanGP with Quick/easy installer
+# WanGP with SageAttention and Quick installer
 
 -----
 
