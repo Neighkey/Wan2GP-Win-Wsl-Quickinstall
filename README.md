@@ -9,7 +9,7 @@
 1. Navigate to the Windows folder where the script is, e.g cd /mnt/c/Users/Username/Path to repo
 2. Now run the setup commands chmod +x wgp_manager.sh cp wgp_manager.sh ~/wgp_manager.sh
 3. Verify it's copied ls -la ~/wgp_manager.sh
-4. 
+
 <p align="center">
 <b>WanGP by DeepBeepMeep : The best Open Source Video Generative Models Accessible to the GPU Poor</b>
 </p>
